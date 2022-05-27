@@ -16,7 +16,7 @@ class Program{
       case "9" : Console.Write("outubro"); break;
       case "10" : Console.Write("setembro"); break;
       case "11" : Console.Write("novembro"); break;
-      case "12" : Console.Write("janerio"); break; 
+      case "12" : Console.Write("dezembro"); break; 
       default : Console.WriteLine("valor inválido"); break;
         
     }

@@ -1,6 +1,0 @@
-language = "bash"
-<<<<<<< HEAD
-run = "mcs -out:Main.exe './Aula_0527/exemplo.cs' ; mono Main.exe"
-=======
-run = "mcs -out:Main.exe './aula_0520/Listar02.cs' ; mono Main.exe"
->>>>>>> origin/main
